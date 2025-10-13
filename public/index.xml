@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dr. Emily Clough</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Dr. Emily Clough</description>
+    <generator>Hugo -- 0.146.6</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I grew up in a small paper mill town on the coast of Maine. When I was 16, one of the fossil fuel majors proposed opening a coal-fired power plant in my town. It was my first experience of big companies try to take advantage of small communities. My father took me along to local town council and planning board meetings, so I got to see first-hand how the proposed coal plant generated conflicts in the town and how the fight to prevent it was finally won.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Consulting Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>Data investigations and research strategy for environmental and climate justice</description>
+    </item>
+    <item>
+      <title>Contact me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;The easiest way to contact me is by email &lt;a href=&#34;mailto:emily@emilyclough.com&#34;&gt;emily@emilyclough.com&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Critical Minerals and Social Conflict: Interactive Map and Data Dashboard</title>
+      <link>http://localhost:1313/projects/tm_acled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tm_acled/</guid>
+      <description>&lt;h2 id=&#34;in-numbers-critical-mineral-production-ownership-and-social-unrest&#34;&gt;In numbers: Critical mineral production, ownership, and social unrest&lt;/h2&gt;
+&lt;p&gt;I worked closely with a colleague develop this data dashboard and interactive map showing incidents of social unrest related to and in proximity to transition mineral mines.&lt;/p&gt;
+&lt;p&gt;This project was delivered at pace. I coordinated relationships with public and private data providers, wireframed the project and hired an interactive developer, and ensured that the data was processed correctly before being fed into the dashboard and map.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Professional Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>&lt;h3 id=&#34;head-of-data-investigations&#34;&gt;Head of Data Investigations&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Global Witness&lt;/strong&gt; | London | January 2024 - August 2025&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Re-established and scaled Data Investigations Team from 2 to 5 members&lt;/li&gt;
+&lt;li&gt;Led team proposal for £1M project on abandoned oil and gas wells mapping, selected for final funding round&lt;/li&gt;
+&lt;li&gt;Oversaw high-impact investigations featured in BBC, Guardian, and Financial Times&lt;/li&gt;
+&lt;li&gt;Managed cross-functional collaboration with 6 campaign teams&lt;/li&gt;
+&lt;li&gt;Contributed to organizational leadership through participation in leadership group initiatives&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;senior-fellow-in-climate-change-and-ai&#34;&gt;Senior Fellow in Climate Change and AI&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Ada Lovelace Institute&lt;/strong&gt; | London | January 2024 - August 2022&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

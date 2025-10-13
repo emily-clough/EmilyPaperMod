@@ -1,0 +1,33 @@
+/* PaperMod theme variable overrides */
+/* Create this file as: assets/css/extended/theme-vars-override.css */
+
+:root {
+
+    
+    /* Custom brand colors for your components */
+    --brand-primary: #2C5F77;     /* Deep blue */
+    --brand-secondary: #4F8FBF;   
+    --brand-accent: #4a7c59;      
+    --brand-highlight: #f39c12;   
+}
+
+
+
+.dark {
+    /* Dark theme colors */
+    --theme: #0F1B24;              /* Dark page background */
+    --entry: #0F1B24;              /* Dark post/card backgrounds */
+    --primary: #E6E9EC;            /* Light text on dark */
+    --secondary: #b0b0b0;          /* Muted light text */
+    --tertiary: rgba(255, 255, 255, 0.08); /* Dark backgrounds */
+    --content: #e5e5e5;            /* Content text */
+    --hljs-bg: #2e2e33;            /* Dark code block background */
+    --code-bg: #37383e;            /* Dark inline code background */
+    --border: #444444;             /* Dark border color */
+    
+    /* Custom brand colors for dark mode */
+    --brand-primary: #a7c5d8;      /* Lighter blue for dark mode */
+    --brand-secondary: #65bde9;    /* Keep green consistent */
+    --brand-accent: #66b366;       /* Lighter green for dark mode */
+    --brand-highlight: #ffa726;    /* Warmer orange for dark mode */
+}
